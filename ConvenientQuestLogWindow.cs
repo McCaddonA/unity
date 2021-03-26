@@ -119,7 +119,6 @@ namespace DaggerfallWorkshop.Game.UserInterfaceWindows
             }
         }
 
-        //TODO: Potential fix for 'dialog notes' button cycle bug
         protected override void DialogButton_OnMouseClick(BaseScreenComponent sender, Vector2 position)
         {
             base.DialogButton_OnMouseClick(sender, position);
